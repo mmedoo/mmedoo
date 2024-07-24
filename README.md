@@ -80,7 +80,7 @@
 
 # 💫 About Me
 
-## 🔭 I’m currently working on Full Stack projects.<br>👯 I’m looking to collaborate on Web Applications.
+## 🔭 I’m currently working on Full Stack projects 🔭 <br>👯 I’m looking to collaborate on Web Applications 👯
 
 
 
