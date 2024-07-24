@@ -53,7 +53,12 @@
 <img src="https://cdn.simpleicons.org/docker/2496ED" height="37" alt="docker logo"  />
 
 <hr/>
-<img src="imgs/dist/github-contribution-grid-snake.svg" alt="snake"/>
+
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="imgs/dist/github-contribution-grid-snake-dark.svg">
+ <img alt="snake." src="imgs/dist/github-contribution-grid-snake.svg">
+</picture>
+
 <hr/>
 
 ![](https://github-profile-trophy.vercel.app/?username=mmedoo&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
