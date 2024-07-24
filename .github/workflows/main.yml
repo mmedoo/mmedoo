@@ -1,0 +1,38 @@
+name: generate animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *" 
+  workflow_dispatch:
+  push:
+    branches:
+    - main
+
+jobs:
+  generate:
+    permissions: 
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: mmedoo
+          outputs: |
+            imgs/dist/github-contribution-grid-snake.svg
+            imgs/dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add imgs/dist
+          git commit -m "Update GitHub contribution snake"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.ACT_TOK }}
