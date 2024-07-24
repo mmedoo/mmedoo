@@ -3,7 +3,9 @@
 
 <img width="12" />
 <img width="12" />
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="37" alt="javascript logo"  />
+
 <img width="12" />
 <img width="12" />
 <img src="https://cdn.simpleicons.org/c++/00599C" height="37" alt="cplusplus logo"  />
@@ -61,7 +63,12 @@
 
 <hr/>
 
-![](https://github-profile-trophy.vercel.app/?username=mmedoo&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=mmedoo&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4
+ ">
+ <img alt="snake." src="https://github-profile-trophy.vercel.app/?username=mmedoo&theme=transparent&no-frame=false&no-bg=true&margin-w=4">
+</picture>
+
 
 ![](https://github-readme-stats.vercel.app/api?username=mmedoo&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)![](https://github-readme-stats.vercel.app/api/top-langs/?username=mmedoo&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
