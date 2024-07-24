@@ -3,87 +3,51 @@
 
 <img width="12" />
 <img width="12" />
-<img width="12" />
-<img width="12" />
-<img width="12" />
-<img width="12" />
-<img width="12" />
-<img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="37" alt="javascript logo"  />
-<img width="12" />
-<img width="12" />
 <img width="12" />
 <img width="12" />
 <img src="https://cdn.simpleicons.org/c++/00599C" height="37" alt="cplusplus logo"  />
 <img width="12" />
 <img width="12" />
-<img width="12" />
-<img width="12" />
 <img src="https://cdn.simpleicons.org/python/3776AB" height="37" alt="python logo"  />
-<img width="12" />
-<img width="12" />
 <img width="12" />
 <img width="12" />
 <br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="37" alt="react logo"  />
 <img width="12" />
 <img width="12" />
-<img width="12" />
-<img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="37" alt="nodejs logo"  />
-<img width="12" />
-<img width="12" />
 <img width="12" />
 <img width="12" />
 <img src="https://skillicons.dev/icons?i=express" height="37" alt="express logo"  />
 <img width="12" />
 <img width="12" />
-<img width="12" />
-<img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="37" alt="mysql logo"  />
-<img width="12" />
-<img width="12" />
 <img width="12" />
 <img width="12" />
 <img src="https://cdn.simpleicons.org/sqlite/003B57" height="37" alt="sqlite logo"  />
 <img width="12" />
 <img width="12" />
-<img width="12" />
-<img width="12" />
 <img src="https://cdn.simpleicons.org/sequelize/52B0E7" height="37" alt="sequelize logo"  />
-<img width="12" />
-<img width="12" />
 <img width="12" />
 <img width="12" />
 <img src="https://skillicons.dev/icons?i=django" height="37" alt="django logo"  />
 <img width="12" />
 <img width="12" />
-<img width="12" />
-<img width="12" />
 <img src="https://cdn.simpleicons.org/html5/E34F26" height="37" alt="html5 logo"  />
-<img width="12" />
-<img width="12" />
 <img width="12" />
 <img width="12" />
 <img src="https://cdn.simpleicons.org/css3/1572B6" height="37" alt="css3 logo"  />
 <br/>
 <img width="12" />
 <img width="12" />
-<img width="12" />
-<img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="37" alt="vscode logo"  />
-<img width="12" />
-<img width="12" />
 <img width="12" />
 <img width="12" />
 <img src="https://cdn.simpleicons.org/linux/FCC624" height="37" alt="linux logo"  />
 <img width="12" />
 <img width="12" />
-<img width="12" />
-<img width="12" />
 <img src="https://cdn.simpleicons.org/git/F05032" height="37" alt="git logo"  />
-<img width="12" />
-<img width="12" />
 <img width="12" />
 <img width="12" />
 <img src="https://cdn.simpleicons.org/docker/2496ED" height="37" alt="docker logo"  />
